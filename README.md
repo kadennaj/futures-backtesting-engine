@@ -1,4 +1,3 @@
-Copyright (c) 2026 Kaden Najarali
 
 All rights reserved.
 
